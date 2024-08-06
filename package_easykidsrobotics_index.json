@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "EasyKidsRobotics",
-          "architecture": "BT-WiFi",
+          "architecture": "esp32",
           "version": "4.4.0",
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v1/arduino-3in1-4.4.0.zip",
@@ -82,7 +82,7 @@
         },
         {
           "name": "EasyKidsRobotics",
-          "architecture": "Gamepad",
+          "architecture": "esp32-gamepad",
           "version": "4.4.0",
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v1/arduino-3in1-gamepad-4.4.0.zip",
