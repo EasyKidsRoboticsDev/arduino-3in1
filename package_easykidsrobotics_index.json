@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v1/arduino-3in1-4.4.0.zip",
           "archiveFileName": "arduino-3in1-4.4.0.zip",
-          "checksum": "SHA-256:2F30EB45A7D468BB276040FB16A508262262BD31074148DF545F2359D8BC837A",
-          "size": "245139253",
+          "checksum": "SHA-256:F5D0642BC61294DD8B69E67FF9E20CD251EF84D9BC65AE4B825E2421DF39E757",
+          "size": "245139315",
           "boards": [
             { "name": "EasyKids3in1 BT-WiFi" }
           ],
