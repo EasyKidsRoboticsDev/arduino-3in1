@@ -12,12 +12,12 @@
         {
           "name": "EasyKidsRobotics",
           "architecture": "esp32",
-          "version": "4.4.0",
+          "version": "4.4.0-pre-v2",
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v2/arduino-3in1-4.4.0.zip",
           "archiveFileName": "arduino-3in1-4.4.0.zip",
-          "checksum": "SHA-256:8E0543BAAA5B3CB7D381D76D5E6076582008A7CF889459159D3568AD99D7DDE6",
-          "size": "245240228",
+          "checksum": "SHA-256:6DBE9CD62DC0E9FD31D086BE25824867E53991E57CBB22DCABC9100F7CCE29CA",
+          "size": "245087920",
           "boards": [
             { "name": "EasyKids3in1 BT-WiFi" }
           ],
@@ -83,12 +83,12 @@
         {
           "name": "EasyKidsRobotics",
           "architecture": "esp32-gamepad",
-          "version": "4.4.0",
+          "version": "4.4.0-pre-v2",
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v2/arduino-3in1-gamepad-4.4.0.zip",
           "archiveFileName": "arduino-3in1-gamepad-4.4.0.zip",
-          "checksum": "SHA-256:4417CAE38F991EA0350BAAC1B6230895FEEAEC7D5C522C3C2EE66DC624D736F2",
-          "size": "336702279",
+          "checksum": "SHA-256:50DD6CC73BF8FC9C59BA0C339F547EF0EAB7396EC7951FDD9D80BB406D742C94",
+          "size": "336570667",
           "help": {
             "online": ""
           },
