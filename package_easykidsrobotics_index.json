@@ -12,12 +12,12 @@
         {
           "name": "EasyKidsRobotics",
           "architecture": "esp32",
-          "version": "4.4.0-pre-v2",
+          "version": "4.3.5",
           "category": "Contributed",
-          "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v2/arduino-3in1-4.4.0.zip",
-          "archiveFileName": "arduino-3in1-4.4.0.zip",
-          "checksum": "SHA-256:6DBE9CD62DC0E9FD31D086BE25824867E53991E57CBB22DCABC9100F7CCE29CA",
-          "size": "245087920",
+          "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.3.5/arduino-3in1-4.3.5.zip",
+          "archiveFileName": "arduino-3in1-4.3.5.zip",
+          "checksum": "SHA-256:544B036C9D71C331914B67A37A90BCFAAF650BA0AAB06C05633FBAFDF86B8B3B",
+          "size": "245402811",
           "boards": [
             { "name": "EasyKids3in1 BT-WiFi" }
           ],
@@ -83,12 +83,12 @@
         {
           "name": "EasyKidsRobotics",
           "architecture": "esp32-gamepad",
-          "version": "4.4.0-pre-v2",
+          "version": "4.3.5",
           "category": "Contributed",
-          "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.4.0-pre-v2/arduino-3in1-gamepad-4.4.0.zip",
-          "archiveFileName": "arduino-3in1-gamepad-4.4.0.zip",
-          "checksum": "SHA-256:50DD6CC73BF8FC9C59BA0C339F547EF0EAB7396EC7951FDD9D80BB406D742C94",
-          "size": "336570667",
+          "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.3.5/arduino-3in1-gamepad-4.3.5.zip",
+          "archiveFileName": "arduino-3in1-gamepad-4.3.5.zip",
+          "checksum": "SHA-256:9282D2BCDB02E6B8B893BDEF391E220D12CED3FC3C7CD54F37D835C006F1C637",
+          "size": "336622022",
           "help": {
             "online": ""
           },
@@ -130,6 +130,77 @@
               "packager": "esp32",
               "name": "openocd-esp32",
               "version": "v0.11.0-esp32-20221026"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.5.1"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            },
+            {
+              "packager": "arduino",
+              "name": "dfu-util",
+              "version": "0.11.0-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "EasyKidsRobotics",
+          "architecture": "esp32-aicar",
+          "version": "4.3.5",
+          "category": "Contributed",
+          "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.3.5/arduino-3in1-aicar-4.3.5.zip",
+          "archiveFileName": "arduino-3in1-aicar-4.3.5.zip",
+          "checksum": "SHA-256:8391CD38A559C7D36DFE9C58C3A51754C44DF779F9FF6BB108793F7BBC18F31E",
+          "size": "245543010 ",
+          "boards": [
+            { "name": "EasyKids3in1 AI-Car" }
+          ],
+          "help": {},
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "11.2_20220823"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "11.2_20220823"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.12.0-esp32-20230921"
             },
             {
               "packager": "esp32",
