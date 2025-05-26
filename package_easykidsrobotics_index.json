@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.3.5/arduino-3in1-4.3.5.zip",
           "archiveFileName": "arduino-3in1-4.3.5.zip",
-          "checksum": "SHA-256:FDABB979E27E6D9BD04EC1A5F02FB0309F1856220FA6A4F5BB80FFAA123A598B",
-          "size": "245403786",
+          "checksum": "SHA-256:F0FF3F863E50C29BE808B23FA2FA1A74F8B6110202199E6021A541FB8EE3961D",
+          "size": "245403728",
           "boards": [
             { "name": "EasyKids3in1 BT-WiFi" }
           ],
@@ -87,8 +87,8 @@
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.3.5/arduino-3in1-gamepad-4.3.5.zip",
           "archiveFileName": "arduino-3in1-gamepad-4.3.5.zip",
-          "checksum": "SHA-256:B65141217BD45611DDC440826C109E6D359D390CFA323B5C87ED85945DE7587C",
-          "size": "336623045",
+          "checksum": "SHA-256:BE4711897B8C5BAEEC0CDE7C37664FBF89D9F08080373DDD400357446E102353",
+          "size": "336622988",
           "help": {
             "online": ""
           },
@@ -160,8 +160,8 @@
           "category": "Contributed",
           "url": "https://github.com/EasyKidsRoboticsDev/arduino-easykidsrobotics/releases/download/4.3.5/arduino-3in1-aicar-4.3.5.zip",
           "archiveFileName": "arduino-3in1-aicar-4.3.5.zip",
-          "checksum": "SHA-256:35E0BCC6D037CD2E0C8D35C85799DE69F65490F944ADDA888B5A26AE11EA0451",
-          "size": "245544567 ",
+          "checksum": "SHA-256:21CE5A3E01A0189DE235751EFBEF26C3E55C4AFC320AD568DA2065A6FC534536",
+          "size": "245544561 ",
           "boards": [
             { "name": "EasyKids3in1 AI-Car" }
           ],
